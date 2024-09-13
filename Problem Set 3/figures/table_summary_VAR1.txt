@@ -1,0 +1,40 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: seg, jun 05, 2023 - 23:06:49
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{3}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-4} 
+\\[-1.8ex] & \multicolumn{3}{c}{y} \\ 
+\\[-1.8ex] & (1) & (2) & (3)\\ 
+\hline \\[-1.8ex] 
+ gdp\_growth\_ts\_2019.l1 & 0.264$^{**}$ & $-$0.001 & $-$15.701$^{*}$ \\ 
+  & (0.109) & (0.007) & (9.381) \\ 
+  & & & \\ 
+ exch\_rate\_ts\_2019.l1 & 0.066 & 1.010$^{***}$ & $-$150.974$^{**}$ \\ 
+  & (0.667) & (0.041) & (57.447) \\ 
+  & & & \\ 
+ ipc\_ts\_2019.l1 & $-$0.001 & 0.0001 & 0.550$^{***}$ \\ 
+  & (0.001) & (0.0001) & (0.096) \\ 
+  & & & \\ 
+ const & 6.567$^{***}$ & $-$0.041 & 30.594 \\ 
+  & (1.243) & (0.076) & (106.994) \\ 
+  & & & \\ 
+ trend & $-$0.075$^{**}$ & 0.002 & 5.433$^{*}$ \\ 
+  & (0.032) & (0.002) & (2.794) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+Observations & 77 & 77 & 77 \\ 
+R$^{2}$ & 0.349 & 0.971 & 0.546 \\ 
+Adjusted R$^{2}$ & 0.313 & 0.970 & 0.521 \\ 
+Residual Std. Error (df = 72) & 3.359 & 0.204 & 289.208 \\ 
+F Statistic (df = 4; 72) & 9.660$^{***}$ & 607.613$^{***}$ & 21.672$^{***}$ \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{3}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 

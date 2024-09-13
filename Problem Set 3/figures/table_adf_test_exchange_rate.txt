@@ -1,0 +1,16 @@
+% latex table generated in R 4.2.3 by xtable 1.8-4 package
+% Sat Jun  3 20:06:17 2023
+\begin{table}[ht]
+\centering
+\begin{tabular}{ccccc}
+  \hline
+ & Statistic & Critical Value (1\%) & Critical Value (5\%) & Critical Value (10\%) \\ 
+  \hline
+tau3 & 0.211 & -4.040 & -3.450 & -3.150 \\ 
+  phi2 & 2.760 & 6.500 & 4.880 & 4.160 \\ 
+  phi3 & 2.673 & 8.730 & 6.490 & 5.470 \\ 
+   \hline
+\end{tabular}
+\caption{ADF Test with drift and time trend - Exchange Rate} 
+\label{ADF Test}
+\end{table}

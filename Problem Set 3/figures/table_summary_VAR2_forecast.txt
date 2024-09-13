@@ -1,0 +1,16 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: ter, jun 06, 2023 - 06:07:00
+% Requires LaTeX packages: dcolumn 
+\begin{table}[!htbp] \centering 
+  \caption{Forecast Results} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+\multicolumn{1}{c}{Observed GDP Growth} & \multicolumn{1}{c}{Forecast} & \multicolumn{1}{c}{Lower Bound} & \multicolumn{1}{c}{Upper Bound} & \multicolumn{1}{c}{Confidence Interval} \\ 
+\hline \\[-1.8ex] 
+-3.880 & 1.519 & -5.047 & 8.084 & 6.565 \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{table} 

@@ -1,0 +1,40 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: seg, jun 05, 2023 - 21:09:46
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-2} 
+\\[-1.8ex] &   \\ 
+\hline \\[-1.8ex] 
+ L(ts\_gdp\_2019) & 0.282$^{**}$ \\ 
+  & (0.111) \\ 
+  & \\ 
+ L(ts\_gdp\_2019, 2) & 0.195$^{*}$ \\ 
+  & (0.112) \\ 
+  & \\ 
+ L(ts\_exch\_rate\_2019) & $-$1.497 \\ 
+  & (1.166) \\ 
+  & \\ 
+ L(ts\_exch\_rate\_2019, 2) & 0.751 \\ 
+  & (1.178) \\ 
+  & \\ 
+ L(ts\_ipc\_2019) & $-$0.0004 \\ 
+  & (0.002) \\ 
+  & \\ 
+ L(ts\_ipc\_2019, 2) & $-$0.001 \\ 
+  & (0.001) \\ 
+  & \\ 
+ Constant & 3.200$^{***}$ \\ 
+  & (1.027) \\ 
+  & \\ 
+\hline \\[-1.8ex] 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
