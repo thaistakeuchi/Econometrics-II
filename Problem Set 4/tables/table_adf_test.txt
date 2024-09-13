@@ -1,0 +1,14 @@
+% latex table generated in R 4.2.3 by xtable 1.8-4 package
+% Thu Jun 15 07:34:16 2023
+\begin{table}[ht]
+\centering
+\begin{tabular}{ccccc}
+  \hline
+ & Statistic & Critical Value (1\%) & Critical Value (5\%) & Critical Value (10\%) \\ 
+  \hline
+tau1 & -3.089 & -2.580 & -1.950 & -1.620 \\ 
+   \hline
+\end{tabular}
+\caption{ADF Test no drift and no time trend} 
+\label{ADF Test}
+\end{table}

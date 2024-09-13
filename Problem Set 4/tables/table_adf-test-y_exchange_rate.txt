@@ -1,0 +1,15 @@
+% latex table generated in R 4.2.3 by xtable 1.8-4 package
+% Fri Jun  9 14:26:27 2023
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrl}
+  \toprule
+Test & Statistic & CV (1%) & CV (5%) & CV (10%) & Rejection \\ 
+  \midrule
+$\tau3$ & -6.31 & -4.04 & -3.45 & -3.15 & *** \\ 
+  $\phi2$ & 13.29 & 6.50 & 4.88 & 4.16 & *** \\ 
+  $\phi3$ & 19.93 & 8.73 & 6.49 & 5.47 & *** \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
+% latex table generated in R 4.2.3 by xtable 1.8-4 package % Fri Jun  9 14:46:02 2023 \begin{table}[ht] \centering \begin{tabular}{llrrrrl}   \toprule Variable & Test & Statistic & CV (1\%) & CV (5\%) & CV (10\%) & Rejection \\    \midrule y_exchange_rate & $\tau3$ & -1.89 & -3.98 & -3.42 & -3.13 &  \\    y_exchange_rate & $\phi2$ & 2.00 & 6.15 & 4.71 & 4.05 &  \\    y_exchange_rate & $\phi3$ & 1.85 & 8.34 & 6.30 & 5.36 &  \\     \bottomrule \end{tabular} \end{table} 

@@ -1,0 +1,17 @@
+% latex table generated in R 4.2.3 by xtable 1.8-4 package
+% Fri Jun  9 14:26:27 2023
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrl}
+  \toprule
+Test & Statistic & CV (1%) & CV (5%) & CV (10%) & Rejection \\ 
+  \midrule
+$\tau3$ & -6.93 & -4.04 & -3.45 & -3.15 & *** \\ 
+  $\phi2$ & 16.04 & 6.50 & 4.88 & 4.16 & *** \\ 
+  $\phi3$ & 24.06 & 8.73 & 6.49 & 5.47 & *** \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
+% latex table generated in R 4.2.3 by xtable 1.8-4 package % Fri Jun  9 14:40:09 2023 \begin{table}[ht] \centering \begin{tabular}{lrrrrl}   \toprule Test & Statistic & CV (1\%) & CV (5\%) & CV (10\%) & Rejection \\    \midrule $\tau3$ & -1.83 & -3.98 & -3.42 & -3.13 &  \\    $\phi2$ & 14.84 & 6.15 & 4.71 & 4.05 & *** \\    $\phi3$ & 1.94 & 8.34 & 6.30 & 5.36 &  \\     \bottomrule \end{tabular} \end{table} 
+% latex table generated in R 4.2.3 by xtable 1.8-4 package % Fri Jun  9 14:42:29 2023 \begin{table}[ht] \centering \begin{tabular}{lrrrrl}   \toprule Test & Statistic & CV (1\%) & CV (5\%) & CV (10\%) & Rejection \\    \midrule $\tau3$ & -1.83 & -3.98 & -3.42 & -3.13 &  \\    $\phi2$ & 14.84 & 6.15 & 4.71 & 4.05 & *** \\    $\phi3$ & 1.94 & 8.34 & 6.30 & 5.36 &  \\     \bottomrule \end{tabular} \end{table} 
+% latex table generated in R 4.2.3 by xtable 1.8-4 package % Fri Jun  9 14:46:02 2023 \begin{table}[ht] \centering \begin{tabular}{llrrrrl}   \toprule Variable & Test & Statistic & CV (1\%) & CV (5\%) & CV (10\%) & Rejection \\    \midrule y_ipca & $\tau3$ & -1.83 & -3.98 & -3.42 & -3.13 &  \\    y_ipca & $\phi2$ & 14.84 & 6.15 & 4.71 & 4.05 & *** \\    y_ipca & $\phi3$ & 1.94 & 8.34 & 6.30 & 5.36 &  \\     \bottomrule \end{tabular} \end{table} 
